@@ -1,0 +1,34 @@
+.montant{position:absolute;
+			left:20%;
+			top:0.5%}
+			.noti{
+			position:absolute;
+			left:80%;
+			top:0.5%}
+.deconnexion{ position:absolute ;
+             right:5%; 
+ }
+ .navcolor{  background-image: linear-gradient( 90deg, rgb(130, 167, 236) 0%, rgb(72, 71, 101) 100% ); }
+     
+.nom{ font-weight: bold;
+      font-size:15px;
+	  color :white;
+text-transform: capitalize;
+}
+.add{ position:absolute ;
+              left:80%; 
+			  top: 9%;
+ }
+ .cat{width:50%; height:50%;}
+
+ .btsouscat{ position:absolute ;
+              left:60%; top: 9%;
+ top: 9%;}
+ .ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+ 
+    
+}
+
